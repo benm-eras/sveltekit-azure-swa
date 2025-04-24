@@ -1,5 +1,8 @@
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
-<p>
-    This is a test from Ben just seeing if the CI/CD pipeline works at 9:41.
-</p>
+
+<ol>
+	<li>This is a test from Ben just seeing if the CI/CD pipeline works at 9:41.</li>
+	<li>It is now 9:57 and this was created on the dev branch.</li>
+	<li>I have no copied all the node packages and config from Eras.Web and it is 14:28.</li>
+</ol>
