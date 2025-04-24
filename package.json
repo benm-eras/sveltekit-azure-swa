@@ -67,6 +67,15 @@
 		]
 	},
 	"dependencies": {
-		"set-cookie-parser": "^2.7.1"
+		"@azure/data-tables": "^13.3.0",
+		"@microsoft/applicationinsights-web": "^3.3.6",
+		"@sendgrid/mail": "^8.1.5",
+		"@tailwindcss/vite": "^4.1.4",
+		"excerpts": "^0.0.3",
+		"js-cookie": "^3.0.5",
+		"luxon": "^3.6.1",
+		"marked": "^15.0.9",
+		"set-cookie-parser": "^2.7.1",
+		"svelte-turnstile": "^0.10.0"
 	}
 }
